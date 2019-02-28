@@ -7,3 +7,4 @@ I will cover how to work with javascript on the web browser, OOP and testing.
 - Functions
 - Objects
 - Arrays
+- Decisions (conditionals)
