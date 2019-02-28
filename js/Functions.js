@@ -28,3 +28,19 @@ function tripleMe (e) {
 
 let threeTimesSomething = tripleMe("Marius")
 console.log(threeTimesSomething);
+
+
+// MORE EXAMPLES
+
+function jump(x) {
+  console.log(x * "Jump!" );
+}
+
+jump(3)
+
+deposit (amount) => {
+  return "You've deposited £" + amount} +
+}
+
+let paymentMade = deposit(100.00)
+console.log(paymentMade);
