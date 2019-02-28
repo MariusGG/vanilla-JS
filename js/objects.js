@@ -32,3 +32,24 @@ cat.meow()
 cat.food.favourite
 // Also within cat object we can creat ojects like the food object
 // This allows us to nest are data
+
+
+//----------------------------------------------------------------------------
+//----------------------------------------------------------------------------
+//      LOOKING AT BUILTIN BROWSER OBJECTS
+//            AND WRITTING TO THE DOM
+//----------------------------------------------------------------------------
+//----------------------------------------------------------------------------
+
+
+  //here we are writing to the browser document
+  // we are allways targetting this object to write to the browser
+  document.addEventListerner("click", doSomething)
+    //the first argument here is the event we are listerning for ("click", "scroll", "keydown")
+    // the second argument is the event to exercute...(the function)
+    // we are just passing the referrence to the function her and not exercuting..we let the eventListerner handle that
+
+  function doSomething () {
+    console.log("Hello You Clicked?")
+  }
+  //
