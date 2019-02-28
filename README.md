@@ -6,3 +6,4 @@ I will cover how to work with javascript on the web browser, OOP and testing.
 *Topics:*
 - Functions
 - Objects
+- Arrays
