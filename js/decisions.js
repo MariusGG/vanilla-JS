@@ -60,3 +60,22 @@ if (ball) {
 
   // A WHILE LOOP is a continues loop unit its condition is no long true, whis here would be when its equal to 50
   // its exercutes the body everything within the braces
+
+
+//EXAMPLE:
+// Learning about making decicisons within my code
+// using conditions (if statments)
+
+let newMail = 0
+
+//the area within the parenthesis is called the condition, if the condition is true exercute the first block
+// the condtion will come down to ever TRUE or FALSE,
+//so the condition could start as false but if something changes it true do first block
+// OR  the condition starts as true but once its false do this else stay true
+// ELSE exercute the second block or does nothing
+if(newMail > 0) {
+  console.log( "You've got mail!")
+} else{
+  console.log("No new mail")
+}
+//

@@ -9,3 +9,4 @@ I will cover how to work with javascript on the web browser, OOP and testing.
 - Arrays
 - Decisions (conditionals)
 - Higher order of functions
+- 

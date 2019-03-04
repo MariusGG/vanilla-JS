@@ -46,7 +46,13 @@ let multiplyTwos = multiplierThis(2)
 let multiplyThrees = multiplierThis(3)
 let multiplyfours = multiplierThis(4)
 // SO in javascript we can asign a function to a variable like above
+// we are asigning a variables a function which will call another function within
+// so when I pass my new variable an argument I'm calling it on my function within
 
+multiplyTwos(2)
+multiplyThrees(3)
+multiplyfours(4)
+//here I'm passing 2, 3 and 4 to the lower level function
 
 /*----------------------------------------------------
 
