@@ -1,0 +1,22 @@
+{
+  "name": "javascript_practice",
+  "version": "1.0.0",
+  "description": "This is a simple walkthrough for myself to practice some of the javascript basics. I will cover how to work with javascript on the web browser, OOP and testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusGG/vanilla-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariusGG/vanilla-JS/issues"
+  },
+  "homepage": "https://github.com/MariusGG/vanilla-JS#readme",
+  "devDependencies": {
+    "jest": "^24.3.1"
+  }
+}
