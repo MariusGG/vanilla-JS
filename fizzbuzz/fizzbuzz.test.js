@@ -15,3 +15,7 @@ test('when given 3 return Fizz', () => {
 test('when given 5 return Buzz', () => {
   expect(fizzbuzz(5)).toEqual('Buzz')
 })
+
+test('when number is divisible by 3 and 5 return fizzbuzz', () => {
+  expect(fizzbuzz(15)).toEqual('FizzBuzz')
+})
